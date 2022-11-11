@@ -26,3 +26,8 @@ GTSRB
       ...
       --43
         ...
+        
+
+🌟You can get the zip file directly from the link: 
+https://pan.baidu.com/s/1c4HhSQNjGSyT3yWde76e4A?pwd=c93d 
+(password: c93d)
