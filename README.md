@@ -1,33 +1,32 @@
 # GTSRB_dataset
-GTSRB train and test data classified by their ground truth labels (png)
+GTSRB train and test data classified by their ground truth labels (png images cropped by boundary box that supplied by official)
 
 these datasets can be used in DatasetFolder in Pytorch
 
 GTSRB
   --train
-      --1
-        --00000.png
-        --00001.png
+      --0
+        --0.png
+        --1.png
         ...
-      --2
-        --00012.png
+      --1
+        --900.png
         ...
       ...
-      --43
+      --42
         ...
  --test
-     --1
-        --00023.png
-        --00041.png
+     --0
+        --0.png
+        --1.png
         ...
-      --2
-        --00001.png
+      --1
+        --288.png
         ...
       ...
-      --43
+      --42
         ...
         
 
 🌟You can get the zip file directly from the link: 
-https://pan.baidu.com/s/1c4HhSQNjGSyT3yWde76e4A?pwd=c93d 
-(password: c93d)
+https://pan.baidu.com/s/1XNfQtPOkyofjg6dX7e0bVQ?pwd=2nsf (password: 2nsf)
